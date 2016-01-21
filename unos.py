@@ -1,7 +1,7 @@
 print('LoL')
 print('Farbaj!')
 
-for i in range(1, 11, 1):
+for i in range(1, 21, 1):
     print(i)
 
 i = 10
